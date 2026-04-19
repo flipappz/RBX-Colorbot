@@ -1,0 +1,5 @@
+detection_size=5
+activation_key=17
+color_tolerance=40
+click_cooldown_ms=20
+scan_stride=2
